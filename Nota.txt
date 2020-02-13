@@ -1,0 +1,9 @@
+Estimado Manuel Sanchez,
+
+Es grato dirigirme a usted para informarle que el proyecto es una solución que consta con dos aplicativos Web y Escritorio, algunas de las dificultades fueron en cuanto a las versiones de .Net framework y en el campo de fecha donde la fecha se ingresa por año, mes y día en la aplicación web, en la aplicación de escritorio no tuve ningún inconveniente.
+
+
+BASE DE DATOS:
+user: web-developer
+password: web-developer
+

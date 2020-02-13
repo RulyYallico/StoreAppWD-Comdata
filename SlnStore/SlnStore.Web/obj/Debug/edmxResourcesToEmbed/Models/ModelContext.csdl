@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PruebaStoreModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="IdProduct" />
+    </Key>
+    <Property Name="IdProduct" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameProduct" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PriceUnit" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Stock" Type="Int32" Nullable="false" />
+    <Property Name="ExpirationDate" Type="DateTime" Nullable="false" Precision="0" />
+  </EntityType>
+  <EntityContainer Name="StoreContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Product" EntityType="Self.Product" />
+  </EntityContainer>
+</Schema>

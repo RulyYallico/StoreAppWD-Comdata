@@ -1,0 +1,13 @@
+C:\Users\Ruly Yallico Lazo\Desktop\AppStore\SlnStore\SlnStore.Desktop\bin\Debug\SlnStore.Desktop.exe.config
+C:\Users\Ruly Yallico Lazo\Desktop\AppStore\SlnStore\SlnStore.Desktop\bin\Debug\SlnStore.Desktop.exe
+C:\Users\Ruly Yallico Lazo\Desktop\AppStore\SlnStore\SlnStore.Desktop\bin\Debug\SlnStore.Desktop.pdb
+C:\Users\Ruly Yallico Lazo\Desktop\AppStore\SlnStore\SlnStore.Desktop\obj\Debug\SlnStore.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Ruly Yallico Lazo\Desktop\AppStore\SlnStore\SlnStore.Desktop\obj\Debug\SlnStore.Desktop.Properties.Resources.resources
+C:\Users\Ruly Yallico Lazo\Desktop\AppStore\SlnStore\SlnStore.Desktop\obj\Debug\SlnStore.Desktop.csproj.GenerateResource.Cache
+C:\Users\Ruly Yallico Lazo\Desktop\AppStore\SlnStore\SlnStore.Desktop\obj\Debug\SlnStore.Desktop.exe
+C:\Users\Ruly Yallico Lazo\Desktop\AppStore\SlnStore\SlnStore.Desktop\obj\Debug\SlnStore.Desktop.pdb
+C:\Users\Ruly Yallico Lazo\Desktop\AppStore\SlnStore\SlnStore.Desktop\obj\Debug\SlnStore.Desktop.Form1.resources
+C:\Users\Ruly Yallico Lazo\Desktop\AppStore\SlnStore\SlnStore.Desktop\bin\Debug\EntityFramework.dll
+C:\Users\Ruly Yallico Lazo\Desktop\AppStore\SlnStore\SlnStore.Desktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruly Yallico Lazo\Desktop\AppStore\SlnStore\SlnStore.Desktop\bin\Debug\EntityFramework.xml
+C:\Users\Ruly Yallico Lazo\Desktop\AppStore\SlnStore\SlnStore.Desktop\bin\Debug\EntityFramework.SqlServer.xml
